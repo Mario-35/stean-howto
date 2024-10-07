@@ -125,6 +125,8 @@ voir le graph : http://sensorthings.geosas.fr/ophelie/v1.1/Datastreams(1)/Observ
 
 voir les graph : http://sensorthings.geosas.fr/ophelie/v1.1/Datastreams(1,2)/Observations?$resultFormat=graph
 
+![Import](./assets/import.jpg "Import")
+
 
 on creer les entites en postant dans multiDatastream :
 
@@ -190,4 +192,3 @@ ATTENTION si le sensor exite deja remplacer par
 }
 ```
 
-![Import](./assets/import.jpg "Import")
