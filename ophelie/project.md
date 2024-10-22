@@ -121,12 +121,15 @@ voir les graph : http://sensorthings.geosas.fr/ophelie/v1.1/Datastreams(1,2)/Obs
 
 on creer les entites en postant dans multiDatastream :
 
-ATTENTION si le sensor exite deja remplacer par
+ATTENTION si le sensor ou re Thing exite deja remplacer par
 
 ```json
-    "Sensor": {
+    "Thing": {
         "@iot.name": "Kervidy"
     },
+    "Sensor": {
+        "@iot.name": "Fichier excel"
+    }
 ```
 
 ```json
